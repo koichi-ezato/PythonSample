@@ -1,5 +1,8 @@
 #! /usr/bin/python
 # -*- encoding: utf-8 -*-
+__author__= "koichi-ezato"
+__date__ = "$2014/10/10"
+
 import mojimoji
 
 # unicodeをutf-8にエンコードする
